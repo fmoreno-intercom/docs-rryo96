@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-7i8807.indocuanwin.space/sitemap.xml
